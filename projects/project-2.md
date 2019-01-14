@@ -19,3 +19,4 @@ This version of SHA-1 was programmed in C on UHUnix and was the final project fo
 
 This was an individual project and while I did collaborate with other students, each of us needed to turn in our own version. The primary language we covered during the semester was C with an overview of C++ in the last two weeks. Creating the program was great practice in reading pseudocode, using all the functions we had learned in the semester, and how to use visuals to gain a deeper understanding of code. The most interesting part of this assignment was creating an algorithm that has a tangible, real-world application, even though it’s one of the oldest iterations of secure hashing algorithms. I may not be in cybersecurity but working on SHA-1 has given me a better appreciation for encryption and how it’s done. 
 
+Click here to learn more about the [Secure Hash Standard](https://web.archive.org/web/20161126003357/http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf).
