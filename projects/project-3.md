@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/pokegui_coverimage.png
-title: PokemonGUI
+title: PokedexGUI
 permalink: projects/pokegui
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-10
