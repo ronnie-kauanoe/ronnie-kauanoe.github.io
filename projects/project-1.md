@@ -7,9 +7,10 @@ permalink: projects/realisticvr
 # All dates must be YYYY-MM-DD format!
 date: 2018-06-04
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Virtual Reality
+  - Unity
+  - C#
+summary: A realistic grasping method in virtual reality using Unity.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
