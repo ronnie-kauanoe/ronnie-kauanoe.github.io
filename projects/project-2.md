@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/sha1_coverimage.png
 title: SHA-1 Final Project
-permalink: projects/realisticvr
+permalink: projects/sha1
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-10
 labels:
