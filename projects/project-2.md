@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/sha1_coverimage.jpg
 title: SHA-1 Final Project
 permalink: projects/sha1
 # All dates must be YYYY-MM-DD format!
