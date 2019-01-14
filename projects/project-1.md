@@ -5,7 +5,7 @@ image: images/vrproject_coverimage.jpg
 title: Realistic Grasping in Virtual Reality
 permalink: projects/realisticvr
 # All dates must be YYYY-MM-DD format!
-date: 2018-06-04 - 2018-08-10
+date: 2018-06-04
 labels:
   - Lisp
   - GitHub
