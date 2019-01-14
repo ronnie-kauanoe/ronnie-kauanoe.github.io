@@ -13,6 +13,8 @@ labels:
 summary: SHA-1 (Secure Hash Algorithm 1) in C for ICS 212.
 ---
 
+This is test text.
+
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
