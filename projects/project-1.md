@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/vrproject_coverimage.jpg
-title: Cotton
-permalink: projects/cotton
+title: Realistic Grasping in Virtual Reality
+permalink: projects/realisticvr
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
