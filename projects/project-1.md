@@ -13,4 +13,6 @@ labels:
 summary: A realistic grasping method in virtual reality using Unity.
 ---
 
+<img class="ui image" src="{{ site.baseurl }}/images/vrproject_banner.png">
+
 This realistic grasping method was my research project for the Summer 2018 Hoomanalowai Sophomore Success Summer Bridge Program.
