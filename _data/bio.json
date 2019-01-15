@@ -51,21 +51,16 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Java"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Windows",
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
@@ -79,31 +74,39 @@
       "gpa": "",
       "courses": [
       ]
-    }
-  ],
+    },
+    {
+      "institution": "Kapiolani Community College, Honolulu, HI",
+      "area": "Information and Communications Technology",
+      "studyType": "A.S.",
+      "startDate": "2016-08-22",
+      "endDate": "2018-12-14",
+      "gpa": "",
+      "courses": [
+      ]
+    }  ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Kapiolani Community College STEM Center",
+      "position": "ICS Peer Mentor",
+      "website": "http://stem.kapiolani.hawaii.edu/peer-mentors/",
+      "startDate": "2017-08-21",
+      "endDate": "2018-12-14",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Mentor students in Computer Science and Math with individuals and small groups", 
+        "Support program efforts to encourage participation in STEM education", 
+        "Communicate with peers and coordinator to address common goals and concerns"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Laboratory for Advanced Visualization and Applications",
+      "position": "Undergraduate Assistant",
+      "website": "http://lava.manoa.hawaii.edu/",
+      "startDate": "2019-01-11",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
@@ -119,19 +122,6 @@
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
     }
   ],
   "awards": [
@@ -140,12 +130,6 @@
       "date": "2013-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
