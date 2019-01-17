@@ -92,6 +92,16 @@
     }  ],
   "work": [
     {
+      "company": "Laboratory for Advanced Visualization and Applications",
+      "position": "Undergraduate Assistant",
+      "website": "http://lava.manoa.hawaii.edu/",
+      "startDate": "2019-01-11",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
       "company": "Kapiolani Community College STEM Center",
       "position": "ICS Peer Mentor",
       "website": "http://stem.kapiolani.hawaii.edu/peer-mentors/",
@@ -102,16 +112,6 @@
         "Mentor students in Computer Science and Math with individuals and small groups", 
         "Support program efforts to encourage participation in STEM education", 
         "Communicate with peers and coordinator to address common goals and concerns"
-      ]
-    },
-    {
-      "company": "Laboratory for Advanced Visualization and Applications",
-      "position": "Undergraduate Assistant",
-      "website": "http://lava.manoa.hawaii.edu/",
-      "startDate": "2019-01-11",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
       ]
     }
   ],
