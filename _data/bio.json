@@ -88,6 +88,13 @@
       "endDate": "2018-12-14",
       "gpa": "",
       "courses": [
+        "Introduction to Computer Science I",
+        "Introduction to Computer Science II",
+        "Discrete Math for CS I",
+        "Discrete Math for CS II",
+        "Program Structure",
+        "Calculus I",
+        "Calculus II"
       ]
     }  ],
   "work": [
@@ -131,6 +138,21 @@
       ]
     }
   ],
+  "activities": [
+    {
+      "company": "Laboratory for Advanced Visualization and Applications",
+      "position": "Summer Research Intern",
+      "website": "http://lava.manoa.hawaii.edu/",
+      "startDate": "2018-06-15",
+      "endDate": "2018-08-15",
+      "summary": "",
+      "highlights": [
+        "Participated in independent research program",
+        "Created realistic grasping method in virtual reality using Unity",
+        "Met with research faculty to discuss challenges and possible solutions",
+        "Gave presentation on project at the end of the program"
+      ]
+    }
   "references": [
     {
       "name": "Available upon request",
