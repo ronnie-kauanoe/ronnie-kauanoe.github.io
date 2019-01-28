@@ -6,7 +6,7 @@
     "email": "rkauanoe@hawaii.edu",
     "phone": "808-769-7544",
     "website": "https://ronnie-kauanoe.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring 2021.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring 2021. My ultimate goal is to become a professor in computer science.",
     "location": {
       "address": "",
       "postalCode": "96813",
@@ -65,7 +65,7 @@
       "keywords": [
         "Windows",
         "MacOS",
-        "Git/GitHub",
+        "Git/GitHub"
       ]
     }
   ],
@@ -86,7 +86,7 @@
       "studyType": "A.S.",
       "startDate": "2016-08-22",
       "endDate": "2018-12-14",
-      "gpa": "",
+      "gpa": "3.56",
       "courses": [
         "Introduction to Computer Science I",
         "Introduction to Computer Science II",
