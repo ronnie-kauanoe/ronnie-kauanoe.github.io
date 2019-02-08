@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: In Defense of Coding Standards
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-17
+date: 2019-02-07
 labels:
   - ESLint
   - Coding Standards
