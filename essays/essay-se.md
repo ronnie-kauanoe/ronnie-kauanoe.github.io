@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Your Choices, Your Responsibility
 # All dates must be YYYY-MM-DD format!
-date: 2019-04-018
+date: 2019-04-18
 labels:
   - Ethics
   - Development Practices
