@@ -9,8 +9,8 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring 2021. My ultimate goal is to become a professor in computer science.",
     "location": {
       "address": "",
-      "postalCode": "96744",
-      "city": "Kaneohe",
+      "postalCode": "96825",
+      "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -56,6 +56,7 @@
       "keywords": [
         "C",
         "C++",
+        "C#"
         "Java",
         "JavaScript",
         "HTML",
@@ -68,8 +69,8 @@
       "level": "",
       "keywords": [
         "Windows",
-        "MacOS",
         "Git/GitHub",
+        "VRPN",
         "IntelliJ",
         "Meteor",
         "MongoDB",
@@ -81,17 +82,18 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2021)",
-      "studyType": "B.S.",
+      "studyType": "Bachelor of Science",
       "startDate": "2019-01-07",
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "Software Engineering I"
       ]
     },
     {
       "institution": "Kapiolani Community College, Honolulu, HI",
       "area": "Information and Communications Technology",
-      "studyType": "A.S.",
+      "studyType": "Associate of Science",
       "startDate": "2016-08-22",
       "endDate": "2018-12-14",
       "gpa": "3.56",
@@ -115,10 +117,10 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
+        "Implement HTC Vive tracking and controller input into Destiny-Class and Innovator-Class CyberCANOEs",
         "Pursue research projects deemed directly useful to the lab",
         "Assist faculty and graduate students with various projects",
         "Attend weekly meetings to discuss findings and project results",
-        "Perform other related lab duties"
       ]
     },
     {
