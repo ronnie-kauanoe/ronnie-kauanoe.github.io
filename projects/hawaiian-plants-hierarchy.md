@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hawaiian-plant-hierarchy_coverimage.png
+image: images/hawaiian-plant-hierarchy_coverimage.jpg
 title: Modeling Native Plants using Object-Oriented Programming
 permalink: projects/hawaiian-plants-hierarchy
 # All dates must be YYYY-MM-DD format!
