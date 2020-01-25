@@ -68,9 +68,11 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Windows",
+        "Unity3D",
         "Git/GitHub",
+        "Visual Studio",
         "VRPN",
+        "Windows",
         "IntelliJ",
         "Meteor",
         "MongoDB",
@@ -85,9 +87,10 @@
       "studyType": "Bachelor of Science",
       "startDate": "2019-01-07",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.84",
       "courses": [
-        "Software Engineering I"
+        "Software Engineering I",
+        "Algorithms"
       ]
     },
     {
@@ -115,12 +118,13 @@
       "website": "http://lava.manoa.hawaii.edu/",
       "startDate": "2019-01-11",
       "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Implement HTC Vive tracking and controller input into Destiny-Class and Innovator-Class CyberCANOEs",
-        "Pursue research projects deemed directly useful to the lab",
+      "summary": [
+        "Design, maintain, and troubleshoot advanced software and computer systems",
         "Assist faculty and graduate students with various projects",
         "Attend weekly meetings to discuss findings and project results",
+      ],
+      "highlights": [
+        "Implement HTC Vive tracking and controller input into Destiny-Class and Innovator-Class CyberCANOEs",
       ]
     },
     {
@@ -129,11 +133,12 @@
       "website": "http://stem.kapiolani.hawaii.edu/plus-faculty/",
       "startDate": "2018-08-21",
       "endDate": "2018-12-14",
-      "summary": "",
-      "highlights": [
+      "summary": [
         "Plan and manage discrete math practice problem sessions for two hours twice a week",
         "Meet with advising faculty to select exercises each week",
         "Requires extensive understanding of course material to reteach it to peers"
+      ],
+      "highlights": [
       ]
     },
     {
@@ -142,11 +147,12 @@
       "website": "http://stem.kapiolani.hawaii.edu/peer-mentors/",
       "startDate": "2017-08-21",
       "endDate": "2018-12-14",
-      "summary": "",
-      "highlights": [
+      "summary": [
         "Mentor students in Computer Science and Math with individuals and small groups", 
         "Support program efforts to encourage participation in STEM education", 
         "Communicate with peers and coordinator to address common goals and concerns"
+      ],
+      "highlights": [
       ]
     }
   ],
