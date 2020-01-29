@@ -83,9 +83,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2021)",
+      "area": "Computer Science (expected graduation: Spring 2021)",
       "studyType": "Bachelor of Science",
-      "startDate": "2019-01-07",
+      "startDate": "January 2019",
       "endDate": "Present",
       "gpa": "3.84",
       "courses": [
@@ -97,8 +97,8 @@
       "institution": "Kapiolani Community College, Honolulu, HI",
       "area": "Information and Communications Technology",
       "studyType": "Associate of Science",
-      "startDate": "2016-08-22",
-      "endDate": "2018-12-14",
+      "startDate": "August 2016",
+      "endDate": "December 2018",
       "gpa": "3.56",
       "courses": [
         "Introduction to Computer Science I",
@@ -116,7 +116,7 @@
       "company": "Laboratory for Advanced Visualization and Applications",
       "position": "Undergraduate Lab Assistant",
       "website": "http://lava.manoa.hawaii.edu/",
-      "startDate": "2019-01-11",
+      "startDate": "January 2019",
       "endDate": "Present",
       "summary": "",
       "highlights": [
@@ -129,8 +129,8 @@
       "company": "Kapiolani Community College STEM Center",
       "position": "Peer Led Unit Study (PLUS) Peer Mentor",
       "website": "http://stem.kapiolani.hawaii.edu/plus-faculty/",
-      "startDate": "2018-08-21",
-      "endDate": "2018-12-14",
+      "startDate": "August 2018",
+      "endDate": "December 2018",
       "summary": "",
       "highlights": [
         "Plan and manage discrete math practice problem sessions for two hours twice a week",
@@ -142,8 +142,8 @@
       "company": "Kapiolani Community College STEM Center",
       "position": "ICS Peer Mentor",
       "website": "http://stem.kapiolani.hawaii.edu/peer-mentors/",
-      "startDate": "2017-08-21",
-      "endDate": "2018-12-14",
+      "startDate": "August 2017",
+      "endDate": "December 2018",
       "summary": "",
       "highlights": [
         "Mentor students in Computer Science and Math with individuals and small groups", 
