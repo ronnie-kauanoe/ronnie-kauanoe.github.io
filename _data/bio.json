@@ -6,10 +6,10 @@
     "email": "rkauanoe@hawaii.edu",
     "phone": "Phone number available upon request",
     "website": "https://ronnie-kauanoe.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring 2021. My ultimate goal is to become a professor in computer science.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall 2021. My ultimate goal is to become a professor in computer science.",
     "location": {
       "address": "",
-      "postalCode": "96825",
+      "postalCode": "96816",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -28,6 +28,11 @@
     ]
   },
   "interests": [
+    {
+      "name": "body tracking",
+      "keywords": [
+      ]
+    },
     {
       "name": "virtual reality",
       "keywords": [
@@ -54,9 +59,9 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "C#",
         "C",
         "C++",
-        "C#",
         "Java",
         "JavaScript",
         "HTML",
@@ -87,10 +92,12 @@
       "studyType": "Bachelor of Science",
       "startDate": "January 2019",
       "endDate": "Present",
-      "gpa": "3.84",
+      "gpa": "3.87",
       "courses": [
         "Software Engineering I",
-        "Algorithms"
+        "Algorithms",
+        "Database Systems I",
+        "Linear Algebra and Differential Equations"
       ]
     },
     {
