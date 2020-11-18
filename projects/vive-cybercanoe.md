@@ -7,6 +7,7 @@ permalink: projects/vive-cybercanoe
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-15
 labels:
+  - Laboratory for Advanced Visualization and Applications
   - Hybrid Reality
   - CyberCANOE
   - Vive
