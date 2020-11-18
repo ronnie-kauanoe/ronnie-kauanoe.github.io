@@ -7,6 +7,7 @@ permalink: projects/realisticvr
 # All dates must be YYYY-MM-DD format!
 date: 2018-06-04
 labels:
+  - Laboratory for Advanced Visualization and Applications
   - Virtual Reality
   - Unity
   - C#
