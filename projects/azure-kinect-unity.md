@@ -5,7 +5,7 @@ image:
 title: Interfacting with the Azure Kinect through Unity3D
 permalink: projects/azure-kinect-unity
 # All dates must be YYYY-MM-DD format!
-date: 2019-12-01
+date: 2020-10-30
 labels:
   - Laboratory for Advanced Visualization and Applications
   - Azure Kinect
