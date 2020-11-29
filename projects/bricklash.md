@@ -5,7 +5,7 @@ image:
 title: Bricklash: A Colorful Final Project
 permalink: projects/bricklash
 # All dates must be YYYY-MM-DD format!
-date: 2020-12-01
+date: 2020-12-12
 labels:
   - Unity3D
   - Multiplayer
